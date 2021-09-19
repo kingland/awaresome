@@ -15,6 +15,9 @@
 ### [runtypes](https://github.com/pelotom/runtypes)
 * Runtime validation for static types
 
+### [zwitterion](https://github.com/lastmjs/zwitterion)
+* A web dev server that lets you import anything*
+
 ## JavaScript
 
 ### [es6features](https://github.com/lukehoban/es6features)
@@ -29,11 +32,17 @@
 ### [js-designpatterns](https://github.com/nnupoor-zz/js_designpatterns)
 * JS design patterns 
 
+### [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+* Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 ### [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * Algorithm Visualizer
 
 ### [javascript](https://github.com/airbnb/javascript)
 * JavaScript Style Guide
+
+### [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* List of JavaScript methods which you can use natively + ESLint Plugin
 
 ### [js-bits](https://github.com/vasanthk/js-bits)
 * JavaScript concepts with code
@@ -58,6 +67,18 @@
 
 ### [Nice2Predict](https://github.com/eth-sri/Nice2Predict)
 * Learning framework for program property prediction
+
+### [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* The perfect Front-End Checklist for modern websites and meticulous developers
+
+### [locutus](https://github.com/locutusjs/locutus)
+* php.js implements PHP functions in JavaScript
+
+### [upterm](https://github.com/railsware/upterm)
+* A terminal emulator for the 21st century.
+
+### [lazyload](https://github.com/rgrove/lazyload)
+* Tiny, dependency-free async JavaScript and CSS loader.
 
 ## NodeJS
 
@@ -124,3 +145,6 @@
 
 ### [betwixt](https://github.com/kdzwinel/betwixt)
 * Web Debugging Proxy based on Chrome DevTools Network panel.
+
+### [react-thailand-address-typeahead](https://github.com/tonmanna/react-thailand-address-typeahead)
+* jquery.Thailand.js in React

@@ -258,6 +258,9 @@
 ### [StaticScript](https://github.com/ovr/StaticScript)
 * TypeScript compiler on top of TypeScript as frontend and LLVM as backend
 
+### [khacpp](https://github.com/Kode/khacpp)
+* Fork of hxcpp with slight modifications for Kha/Kinc.
+
 ### [wac](https://github.com/kanaka/wac)
 * WebAssembly interpreter in C
 
