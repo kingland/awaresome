@@ -24,6 +24,12 @@
 ### [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 * Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 
+### [Learn-to-code](https://github.com/arshan-01/Learn-to-code)
+* C++ Foundation
+* Competitive Programming
+* DSA 30 Days challenge
+* Interview Preparation
+
 ### [clang-blueprint](https://github.com/johnthagen/clang-blueprint)
 * Example C++11 CMake project that incorporates awesome Clang tooling
 
@@ -32,6 +38,9 @@
 
 ### [taskflow](https://github.com/taskflow/taskflow)
 * Modern C++ Parallel Task Programming
+
+### [workflow](https://github.com/sogou/workflow)
+* C++ Parallel Computing and Asynchronous Networking Engine. Simple C++ HTTP Server/Client.
 
 ### [libcsp](https://github.com/shiyanhui/libcsp)
 * A concurrency C library 10x faster than Golang.
@@ -96,6 +105,9 @@
 ### [proxygen](https://github.com/facebook/proxygen)
 * A collection of C++ HTTP libraries including an easy to use HTTP server.
 
+### [WebServer](https://github.com/linyacool/WebServer)
+* A C++ High Performance Web Server
+
 ### [seastar](https://github.com/scylladb/seastar)
 * High performance server-side application framework
 
@@ -156,6 +168,80 @@
 ### [compiler-rt](https://github.com/clang-omp/compiler-rt)
 * "compiler-rt" Runtime Library
 
+### [wide-integer](https://github.com/ckormanyos/wide-integer)
+* Wide-Integer implements a generic C++ template for uint128_t, uint256_t, uint512_t, uint1024_t, etc.
+
+### [Celero](https://github.com/DigitalInBlue/Celero)
+* C++ Benchmark Authoring Library/Framework
+
+### [Date & Time](https://github.com/HowardHinnant/date)
+* A date and time library based on the C++11/14/17 <chrono> header
+
+### [Vc](https://github.com/VcDevel/Vc)
+* SIMD Vector Classes for C++
+
+### [tinyxml2](https://github.com/leethomason/tinyxml2)
+* TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+
+### [json](https://github.com/nlohmann/json)
+* JSON for Modern C++
+
+### [uriparser](https://github.com/uriparser/uriparser)
+* Strictly RFC 3986 compliant URI parsing and handling library written in C89; moved from SourceForge to GitHub
+
+### [sdk](https://github.com/meganz/sdk)
+* MEGA C++ SDK
+
+### [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+* Achieve a tiny STL in C++11
+
+### [QuantLib](https://github.com/lballabio/QuantLib)
+* The QuantLib project providing a comprehensive software framework for quantitative finance
+
+### [orbit](https://github.com/google/orbit)
+* C/C++ Performance Profiler
+
+### [HighFive](https://github.com/BlueBrain/HighFive)
+* HighFive - Header-only C++ HDF5 interface
+* supports STL vector/string, Boost::UBLAS, Boost::Multi-array, Eigen and Xtensor
+
+### [micro-profiler](https://github.com/tyoma/micro-profiler)
+* Cross-platform low-footprint realtime C/C++ Profiler
+
+### [cpp-peglib](https://github.com/yhirose/cpp-peglib)
+* A single file C++ header-only PEG (Parsing Expression Grammars) library
+
+### [CppMicroServices](https://github.com/CppMicroServices/CppMicroServices)
+* The C++ Micro Services project is a collection of components for building modular and dynamic service-oriented applications. It is based on OSGi, but tailored to support native cross-platform solutions.
+
+### [ck](https://github.com/concurrencykit/ck)
+* Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
+
+### [concurrencpp](https://github.com/David-Haim/concurrencpp)
+* Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
+
+### [quill](https://github.com/odygrd/quill)
+* Asynchronous Low Latency C++ Logging Library
+
+### [parallel](https://github.com/krakjoe/parallel)
+* A succinct parallel concurrency API for PHP8
+
+### [gsl-lite](https://github.com/gsl-lite/gsl-lite)
+* A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11, and later
+
+### [utfcpp](https://github.com/nemtrif/utfcpp)
+* UTF-8 with C++ in a Portable Way
+
+### [args](https://github.com/Taywee/args)
+* A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
+
+### [Magic Enum](https://github.com/Neargye/magic_enum)
+* Magic Enum C++
+* Header-only C++17 library provides static reflection for enums
+
+### [PEGTL](https://github.com/taocpp/PEGTL)
+* Parsing Expression Grammar Template Library
+
 ## OS
 
 ### [MonkOS](https://github.com/beevik/MonkOS)
@@ -196,6 +282,20 @@
 ### [BansheeEngine](https://github.com/niaorenhuaduo/BansheeEngine)
 * Banshee Game Engine
 
+### [cute_headers](https://github.com/RandyGaul/cute_headers)
+* Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+
+## GUI
+
+### [tdesktop](https://github.com/telegramdesktop/tdesktop)
+* Telegram Desktop messaging app
+
+### [elements]https://github.com/cycfi/elements)
+* Elements C++ GUI library
+
+### [layout](https://github.com/randrew/layout)
+* Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
+
 ## C/C++ To Lang 
 
 ### [c3c](https://github.com/c3lang/c3c)
@@ -209,6 +309,9 @@
 
 ### [gravity](https://github.com/marcobambini/gravity)
 * Gravity Programming Language
+
+### [lobster](https://github.com/aardappel/lobster)
+* The Lobster Programming Language
 
 ### [Ark](https://github.com/ArkScript-lang/Ark)
 * ArkScript is a small, fast, functional and scripting language for video games
@@ -228,11 +331,32 @@
 ### [CyLang](https://github.com/cybrown/CyLang)
 * Compiler for an Object Oriented language.
 
+### [cone](https://github.com/jondgoodwin/cone)
+* Cone Programming Language
+
+### [Chaos](https://github.com/chaos-lang/chaos)
+* The Chaos Programming Language
+
+### [Odin](https://github.com/odin-lang/Odin)
+* Odin Programming Language
+
+### [cx](https://github.com/cx-language/cx)
+* C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+
+### [umka-lang](https://github.com/vtereshkov/umka-lang)
+* a statically typed embeddable scripting language
+
 ### [never](https://github.com/never-lang/never)
 * Never: statically typed, embedded functional programming language
 
+### [SCL](https://github.com/dvtate/SCL)
+* A programming language that fixes callbacks and simplifies async by giving the user better tools for control flow
+
 ### [neos](https://github.com/i42output/neos)
 * Language agnostic scripting engine with a custom bytecode JIT
+
+### [pallene](https://github.com/pallene-lang/pallene)
+* Pallene Compiler
 
 ### [c2compiler](https://github.com/c2lang/c2compiler)
 * the c2 programming language
@@ -255,8 +379,20 @@
 ### [quickjs](https://github.com/brandonros/quickjs)
 * Bellard's QuickJS
 
+### [daScript](https://github.com/GaijinEntertainment/daScript)
+* high-performance statically strong typed scripting language
+
 ### [StaticScript](https://github.com/ovr/StaticScript)
 * TypeScript compiler on top of TypeScript as frontend and LLVM as backend
+
+### [kenaf](https://github.com/edmundmk/kenaf)
+* A small, embeddable, dynamically typed scripting language.
+
+### [ravi](https://github.com/dibyendumajumdar/ravi)
+* Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
+
+### [ravi-compiler](https://github.com/dibyendumajumdar/ravi-compiler)
+* Parser and compiler for Ravi and Lua
 
 ### [khacpp](https://github.com/Kode/khacpp)
 * Fork of hxcpp with slight modifications for Kha/Kinc.
