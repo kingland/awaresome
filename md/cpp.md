@@ -290,7 +290,7 @@
 ### [tdesktop](https://github.com/telegramdesktop/tdesktop)
 * Telegram Desktop messaging app
 
-### [elements]https://github.com/cycfi/elements)
+### [elements](https://github.com/cycfi/elements)
 * Elements C++ GUI library
 
 ### [layout](https://github.com/randrew/layout)
