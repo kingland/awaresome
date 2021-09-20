@@ -18,8 +18,11 @@
 ### [CppCon2015](https://github.com/CppCon/CppCon2015)
 * Presentation Materials from CppCon 2015
 
-### [ddnet-libs](https://github.com/ddnet/ddnet-libs)
-* Precompiled libraries and headers of the dependencies of DDNet
+### [180+ Algorithm & Data Structure](https://github.com/mandliya/algorithms_and_data_structures)
+* 180+ Algorithm & Data Structure Problems using C++
+
+### [Algorithm & Data Structure](https://github.com/wangkuiwu/datastructs_and_algorithm)
+* Data struct and algorithm introduction and implementation in C/C++/Java.
 
 ### [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 * Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
@@ -29,6 +32,9 @@
 * Competitive Programming
 * DSA 30 Days challenge
 * Interview Preparation
+
+### [ddnet-libs](https://github.com/ddnet/ddnet-libs)
+* Precompiled libraries and headers of the dependencies of DDNet
 
 ### [clang-blueprint](https://github.com/johnthagen/clang-blueprint)
 * Example C++11 CMake project that incorporates awesome Clang tooling
@@ -220,6 +226,9 @@
 ### [concurrencpp](https://github.com/David-Haim/concurrencpp)
 * Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 
+### [libdill](https://github.com/sustrik/libdill)
+* Structured concurrency in C
+
 ### [quill](https://github.com/odygrd/quill)
 * Asynchronous Low Latency C++ Logging Library
 
@@ -241,6 +250,12 @@
 
 ### [PEGTL](https://github.com/taocpp/PEGTL)
 * Parsing Expression Grammar Template Library
+
+### [fruit](https://github.com/google/fruit)
+* a dependency injection framework for C++
+
+### [cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi)
+* C++ ABI Summary
 
 ## OS
 
@@ -284,6 +299,9 @@
 
 ### [cute_headers](https://github.com/RandyGaul/cute_headers)
 * Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
+
+### [Game-Server](https://github.com/InfiniteRasa/Game-Server)
+* Infinite Rasa - Game Server
 
 ## GUI
 
