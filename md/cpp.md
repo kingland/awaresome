@@ -39,6 +39,9 @@
 ### [clang-blueprint](https://github.com/johnthagen/clang-blueprint)
 * Example C++11 CMake project that incorporates awesome Clang tooling
 
+### [C](https://github.com/TheAlgorithms/C)
+* Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+
 ## Web Framework
 
 ### [drogon](https://github.com/drogonframework/drogon)
@@ -87,6 +90,15 @@
 ### [WebServer](https://github.com/linyacool/WebServer)
 * A C++ High Performance Web Server
 
+### [seastar](https://github.com/scylladb/seastar)
+* High performance server-side application framework
+
+### [cluster](https://github.com/witheve/cluster)
+* experimental distributed runtime
+
+### [tengine](https://github.com/alibaba/tengine)
+* A distribution of Nginx with some advanced features
+
 ## Parallel & Concurrency
 
 ### [taskflow](https://github.com/taskflow/taskflow)
@@ -101,17 +113,13 @@
 ### [parallel](https://github.com/krakjoe/parallel)
 * A succinct parallel concurrency API for PHP8
 
-### [managarm](https://github.com/managarm/managarm)
-* Pragmatic microkernel-based OS with fully asynchronous I/O
+## Library & Framework
 
 ### [openFrameworks](https://github.com/openframeworks/openFrameworks)
 * openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 
 ### [kinx](https://github.com/Kray-G/kinx)
 * Looks like JavaScript, feels like Ruby, and it is the script language fitting in C programmers.
-
-### [C](https://github.com/TheAlgorithms/C)
-* Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 
 ### [libcopp](https://github.com/owent/libcopp)
 * cross-platform coroutine library in c++
@@ -134,9 +142,6 @@
 ### [glibc](https://github.com/lattera/glibc)
 * GNU Libc
 
-### [tengine](https://github.com/alibaba/tengine)
-* A distribution of Nginx with some advanced features
-
 ### [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c)
 * A list of compilers that can generate C code
 
@@ -148,15 +153,6 @@
 
 ### [flatcc](https://github.com/dvidelabs/flatcc)
 * FlatBuffers Compiler and Library in C for C
-
-### [seastar](https://github.com/scylladb/seastar)
-* High performance server-side application framework
-
-### [jemalloc](https://github.com/jemalloc/jemalloc)
-* jemalloc is a general purpose malloc(3) implementation
-
-### [heap_allocator](https://github.com/CCareaga/heap_allocator)
-* A simple heap memory allocator in ~200 lines.
 
 ### [bgfx](https://github.com/bkaradzic/bgfx)
 * Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
@@ -196,9 +192,6 @@
 
 ### [ffi-overhead](https://github.com/dyu/ffi-overhead)
 * comparing the c ffi (foreign function interface) overhead on various programming languages
-
-### [cluster](https://github.com/witheve/cluster)
-* experimental distributed runtime
 
 ### [netdata](https://github.com/netdata/netdata)   
 * Real-time performance monitoring, done right!
@@ -315,6 +308,9 @@
 ### [limine](https://github.com/limine-bootloader/limine)
 * x86/x86_64 BIOS Bootloader
 
+### [managarm](https://github.com/managarm/managarm)
+* Pragmatic microkernel-based OS with fully asynchronous I/O
+
 ## Game
 
 ### [defold](https://github.com/defold/defold)
@@ -345,6 +341,14 @@
 
 ### [layout](https://github.com/randrew/layout)
 * Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
+
+## Allocation & Heap
+
+### [jemalloc](https://github.com/jemalloc/jemalloc)
+* jemalloc is a general purpose malloc(3) implementation
+
+### [heap_allocator](https://github.com/CCareaga/heap_allocator)
+* A simple heap memory allocator in ~200 lines.
 
 ## C/C++ To Lang 
 
