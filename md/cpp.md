@@ -39,8 +39,55 @@
 ### [clang-blueprint](https://github.com/johnthagen/clang-blueprint)
 * Example C++11 CMake project that incorporates awesome Clang tooling
 
+## Web Framework
+
+### [drogon](https://github.com/drogonframework/drogon)
+* Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+
+### [lwan](https://github.com/lpereira/lwan)
+* Experimental, scalable, high performance HTTP server
+
 ### [kore](https://github.com/jorisvink/kore)
-* An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for info…
+* An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror
+* Please see https://kore.io/mail and https://kore.io/source for info…
+
+### [oatpp](https://github.com/oatpp/oatpp)
+* Light and powerful C++ web framework for highly scalable and resource-efficient web application
+
+### [pistache](https://github.com/pistacheio/pistache)
+* About A high-performance REST toolkit written in C++
+
+### [onion](https://github.com/davidmoreno/onion)
+* C library to create simple HTTP servers and Web Applications.
+
+### [CPPWebFramework](https://github.com/HerikLyma/CPPWebFramework)
+* The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, using C++ with Qt to be used in the development of web applications.
+
+### [Wt](https://github.com/emweb/wt)
+* Wt, C++ Web Toolkit
+
+### [treefrog-framework](https://github.com/treefrogframework/treefrog-framework)
+* TreeFrog Framework : High-speed C++ MVC Framework for Web Application
+
+### [cppcms](https://github.com/artyom-beilis/cppcms)
+* CppCMS Framework
+
+### [civetweb](https://github.com/civetweb/civetweb)
+* Embedded C/C++ web server
+
+### [HP-Socket](https://github.com/ldcsaa/HP-Socket)
+* High Performance TCP/UDP/HTTP Communication Component
+
+### [ff-proxy](https://github.com/TimeToogo/ff-proxy)
+* A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
+
+### [proxygen](https://github.com/facebook/proxygen)
+* A collection of C++ HTTP libraries including an easy to use HTTP server.
+
+### [WebServer](https://github.com/linyacool/WebServer)
+* A C++ High Performance Web Server
+
+## Parallel & Concurrency
 
 ### [taskflow](https://github.com/taskflow/taskflow)
 * Modern C++ Parallel Task Programming
@@ -51,14 +98,14 @@
 ### [libcsp](https://github.com/shiyanhui/libcsp)
 * A concurrency C library 10x faster than Golang.
 
+### [parallel](https://github.com/krakjoe/parallel)
+* A succinct parallel concurrency API for PHP8
+
 ### [managarm](https://github.com/managarm/managarm)
 * Pragmatic microkernel-based OS with fully asynchronous I/O
 
 ### [openFrameworks](https://github.com/openframeworks/openFrameworks)
 * openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-
-### [CPPWebFramework](https://github.com/HerikLyma/CPPWebFramework)
-* The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, using C++ with Qt to be used in the development of web applications.
 
 ### [kinx](https://github.com/Kray-G/kinx)
 * Looks like JavaScript, feels like Ruby, and it is the script language fitting in C programmers.
@@ -101,18 +148,6 @@
 
 ### [flatcc](https://github.com/dvidelabs/flatcc)
 * FlatBuffers Compiler and Library in C for C
-
-### [HP-Socket](https://github.com/ldcsaa/HP-Socket)
-* High Performance TCP/UDP/HTTP Communication Component
-
-### [ff-proxy](https://github.com/TimeToogo/ff-proxy)
-* A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
-
-### [proxygen](https://github.com/facebook/proxygen)
-* A collection of C++ HTTP libraries including an easy to use HTTP server.
-
-### [WebServer](https://github.com/linyacool/WebServer)
-* A C++ High Performance Web Server
 
 ### [seastar](https://github.com/scylladb/seastar)
 * High performance server-side application framework
@@ -231,9 +266,6 @@
 
 ### [quill](https://github.com/odygrd/quill)
 * Asynchronous Low Latency C++ Logging Library
-
-### [parallel](https://github.com/krakjoe/parallel)
-* A succinct parallel concurrency API for PHP8
 
 ### [gsl-lite](https://github.com/gsl-lite/gsl-lite)
 * A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11, and later
