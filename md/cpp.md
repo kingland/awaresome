@@ -113,6 +113,15 @@
 ### [parallel](https://github.com/krakjoe/parallel)
 * A succinct parallel concurrency API for PHP8
 
+### [ck](https://github.com/concurrencykit/ck)
+* Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
+
+### [concurrencpp](https://github.com/David-Haim/concurrencpp)
+* Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
+
+### [libdill](https://github.com/sustrik/libdill)
+* Structured concurrency in C
+
 ## Library & Framework
 
 ### [openFrameworks](https://github.com/openframeworks/openFrameworks)
@@ -247,15 +256,6 @@
 
 ### [CppMicroServices](https://github.com/CppMicroServices/CppMicroServices)
 * The C++ Micro Services project is a collection of components for building modular and dynamic service-oriented applications. It is based on OSGi, but tailored to support native cross-platform solutions.
-
-### [ck](https://github.com/concurrencykit/ck)
-* Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.
-
-### [concurrencpp](https://github.com/David-Haim/concurrencpp)
-* Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
-
-### [libdill](https://github.com/sustrik/libdill)
-* Structured concurrency in C
 
 ### [quill](https://github.com/odygrd/quill)
 * Asynchronous Low Latency C++ Logging Library
