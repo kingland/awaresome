@@ -9,6 +9,9 @@
 ### [CPP](https://github.com/prakhargvp/CPP)
 * Object oriented Programming with C++
 
+### [MicrosoftDocs](https://github.com/MicrosoftDocs/cpp-docs)
+* This repository contains source files for the work-in-progress Microsoft C++ (MSVC or Visual C++)
+
 ### [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 * The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 
@@ -41,6 +44,12 @@
 
 ### [C](https://github.com/TheAlgorithms/C)
 * Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+
+### [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+* This repository meets the need of people who wants to really know about C++, and may help you in the interview
+
+### [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
+* C++ Design Patterns
 
 ## Web Framework
 
@@ -122,7 +131,19 @@
 ### [libdill](https://github.com/sustrik/libdill)
 * Structured concurrency in C
 
+### [cocoyaxi](https://github.com/idealvin/cocoyaxi)
+* A go-style coroutine library in C++11 and more
+
+### [asyncplusplus](https://github.com/Amanieu/asyncplusplus)
+* Async++ concurrency framework for C++11
+
 ## Library & Framework
+
+### [CppCommon](https://github.com/chronoxor/CppCommon)
+* Cross-platform C++ common library for Linux, OSX, Windows, Cygwin, MinGW
+
+### [bde](https://github.com/bloomberg/bde)
+* Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.
 
 ### [openFrameworks](https://github.com/openframeworks/openFrameworks)
 * openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -279,6 +300,78 @@
 ### [fruit](https://github.com/google/fruit)
 * a dependency injection framework for C++
 
+### [async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp)
+* Simple thread-based asynchronous TCP & UDP Socket classes in C++.
+
+### [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
+* A header-only and easy to use Ini file parser for C++.
+
+### [cpp-ipc](https://github.com/mutouyun/cpp-ipc)
+* C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows.
+
+### [x64dbg](https://github.com/x64dbg/x64dbg)
+* An open-source x64/x32 debugger for windows.
+
+### [gf](https://github.com/nakst/gf)
+* A GDB frontend for Linux.
+
+### [cparse](https://github.com/cparse/cparse)
+* A C++ configurable Expression Parser
+
+### [dxvk](https://github.com/doitsujin/dxvk)
+* Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+
+### [flameshot](https://github.com/flameshot-org/flameshot)
+* Powerful yet simple to use screenshot softwar
+
+### [solidity](https://github.com/ethereum/solidity)
+* Solidity, the Smart Contract Programming Language
+
+### [string-view-lite](https://github.com/martinmoene/string-view-lite)
+* string_view lite - A C++17-like string_view for C++98, C++11 and later in a single-file header-only library
+
+### [inja](https://github.com/pantor/inja)
+* Inja is a template engine for modern C++
+
+### [boost-ext/ut](https://github.com/boost-ext/ut)
+* UT: C++20 μ(micro)/Unit Testing Framework
+
+### [wazuh](https://github.com/wazuh/wazuh)
+* The Open Source Security Platform
+
+### [acl](https://github.com/acl-dev/acl)
+* Server framework and network components written by C/C++ for Linux, Mac, FreeBSD, Solaris(x86), Windows, Android, IOS
+
+### [eve](https://github.com/jfalcou/eve)
+* Expressive Vector Engine - SIMD in C++
+
+### [fizz](https://github.com/facebookincubator/fizz)
+* C++14 implementation of the TLS-1.3 standard
+
+### [tbox](https://github.com/tboox/tbox)
+* TBOX is a glib-like cross-platform C library that is simple to use yet powerful in nature.
+
+### [uv-cpp](https://github.com/wlgq2/uv-cpp)
+* libuv wrapper in C++11 /libuv C++11
+
+### [Catch2](https://github.com/catchorg/Catch2)
+* Catch2 is mainly a unit testing framework for C++
+
+### [eventpp](https://github.com/wqking/eventpp)
+* Event Dispatcher and callback list for C++
+
+### [brynet](https://github.com/IronsDu/brynet)
+* A Header-Only cross-platform C++ TCP network library
+
+### [expected](https://github.com/TartanLlama/expected)
+* C++11/14/17 std::expected with functional-style extensions
+
+### [type_safe](https://github.com/foonathan/type_safe)
+* Zero overhead utilities for preventing bugs at compile time
+
+### [stduuid](https://github.com/mariusbancila/stduuid)
+* A C++17 cross-platform implementation for UUIDs
+
 ### [cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi)
 * C++ ABI Summary
 
@@ -295,6 +388,12 @@
 
 ### [LiteOS](https://github.com/LiteOS/LiteOS)
 * code and manual
+
+### [XyrisOS](https://github.com/XyrisOS/xyris)
+* XyrisOS
+
+### [HelenOS](https://github.com/HelenOS/helenos)
+* A portable microkernel-based multiserver operating system written from scratch.
 
 ### [demikernel](https://github.com/demikernel/demikernel)
 * Demikernel OS
@@ -333,6 +432,9 @@
 
 ## GUI
 
+### [FairyGUI](https://github.com/fairygui/FairyGUI-unreal)
+* A flexible UI framework for Unreal Engine
+
 ### [tdesktop](https://github.com/telegramdesktop/tdesktop)
 * Telegram Desktop messaging app
 
@@ -342,6 +444,9 @@
 ### [layout](https://github.com/randrew/layout)
 * Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
 
+### [bgfx](https://github.com/bkaradzic/bgfx)
+* Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+
 ## Allocation & Heap
 
 ### [jemalloc](https://github.com/jemalloc/jemalloc)
@@ -349,6 +454,12 @@
 
 ### [heap_allocator](https://github.com/CCareaga/heap_allocator)
 * A simple heap memory allocator in ~200 lines.
+
+### [mimalloc-bench](https://github.com/daanx/mimalloc-bench)
+* Suite for benchmarking malloc implementations.
+
+### [memory](https://github.com/foonathan/memory)
+* STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.
 
 ## C/C++ To Lang 
 
@@ -489,6 +600,15 @@
 
 ### [fracture](https://github.com/draperlaboratory/fracture)
 * an architecture-independent decompiler to LLVM IR
+
+### [asteria](https://github.com/lhmouse/asteria)
+* The Asteria Programming Language
+
+### [kinx](https://github.com/Kray-G/kinx)
+* Looks like JavaScript, feels like Ruby, and it is a script language fitting in C programmers.
+
+### [ring-lang](https://github.com/ring-lang/ring)   
+* Simple and flexible programming language for applications development 
 
 ## Awesome
 
