@@ -1,4 +1,4 @@
-## [AssertJ](https://assertj.github.io/)
+## [AssertJ](https://assertj.github.io/doc/)
 
 ### Overview
 
